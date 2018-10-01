@@ -14,6 +14,9 @@
     "babel-preset-env": "^1.7.0",
     "nodemon": "^1.18.4"
   },
+  "engines": {
+    "node": "8.11.1"
+  },
   "dependencies": {
     "apollo-server": "^2.1.0",
     "apollo-server-express": "^2.1.0",
@@ -25,8 +28,5 @@
     "lodash": "^4.17.11",
     "merge-graphql-schemas": "^1.5.4",
     "mongoose": "^5.2.15"
-  },
-  "engines": {
-    "node": "8.1.2"
   }
 }
